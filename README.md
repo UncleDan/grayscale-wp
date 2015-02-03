@@ -1,2 +1,2 @@
 # grayscale
-Wordpress theme port  StartBootstrap grayscale template (ttp://startbootstrap.com/template-overviews/grayscale/))
+Wordpress theme port  StartBootstrap grayscale template (http://startbootstrap.com/template-overviews/grayscale/))
